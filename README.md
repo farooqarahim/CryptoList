@@ -54,6 +54,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Bitcoin Magazine](https://bitcoinmagazine.com/) - Bitcoin Magazine is the oldest and most established source of news, information and expert commentaries. Sometimes posts deep and very interesting articles.
 * [99 Bitcoins](https://99bitcoins.com/) - 99 Bitcoins is the largest information source for non technical newbies.
 * [Coin Speaker](https://www.coinspeaker.com/) - Founded in 2014, CoinSpeaker is one of the most influentional news source.
+* [CryptoCoinSpace](https://cryptocoinspace.net/) - Bitcoin and Cryptocurrency News.
 * [The Memory Pool](http://nakamotoinstitute.org/mempool/) - Satoshi Nakamoto Institute blog.
 * [Tim Swanson Blog](http://www.ofnumbers.com/category/bitcoin/) - Blog of director of market research at R3.
 * [Oleg Andreev Blog](http://blog.oleganza.com/) - Blog of hardcore developer, product architect at Chain.com.
@@ -145,6 +146,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Cryptoradar](https://cryptoradar.co) - Compares prices and features from > 25 exchanges and brokers.
 * [Binance](https://www.binance.com) - Modern exchange with the lowest fees and it's own token.
 * [Kucoin](https://www.kucoin.com) - Modern. Evolving really fast. Has it's own token.
+* [HeapX](https://heapx.io/) - A Secure and Reliable Crypto Asset Trading Exchange for the Masses.
 # Communities
 ## Chats
 * [The Moon Trollbox](https://t.me/join_trollbox) - Hot news discussions, rumors and friendly talks. No cersorship.
